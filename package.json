@@ -20,6 +20,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "engines": {
+    "node": "8.1.4"
+  },
   "dependencies": {
     "engine.io": "1.6.8",
     "socket.io-parser": "2.2.6",
